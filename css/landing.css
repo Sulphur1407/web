@@ -52,7 +52,7 @@
 
     .big-button {
         padding: 2vw;
-        background: url(images/button.png);
+        background: url(../images/button.png);
         box-sizing: border-box;
         border-radius: 120px;
         display: flex;
