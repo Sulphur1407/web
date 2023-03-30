@@ -191,8 +191,13 @@
             0px 2px 0px black;
     }
 
-    .bl2-images div{
+    .bl2-images a{
+        margin: 0;
         width: 45%;
+    }
+
+    .bl2-images div{
+        width: 100%;
     }
 
     .bl2-images {
@@ -201,10 +206,9 @@
         justify-content: center;
     }
 
-    .bl2-bl1 {
+    .bl2-images a:first-of-type {
         margin-right: 6.8vw;
-      }
-    
+      } 
 }
 
 /*Modile*/
