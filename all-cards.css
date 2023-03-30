@@ -17,9 +17,14 @@
         text-align: center;
     }
 
-    .cards img {
+    .main-content img{
         width: 9.2vw;
     }
+
+    .main-content a img{
+        width: 100%;
+    }
+
 
     .cards {
         display: flex;
