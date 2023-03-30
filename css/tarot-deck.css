@@ -255,6 +255,11 @@
         flex-direction: column;
         justify-content: space-between;
     }
+
+    .author{
+        margin-top: 3.1vw;
+    }
+
     .author img{
         margin: 0 auto;
         width: 50vw;
@@ -368,4 +373,8 @@
         align-items: center;
         text-align: center; 
     } 
+
+    .author{
+        margin-top: 3.1vw;
+    }
 }
